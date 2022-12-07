@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string.arrays>
+<item>Assembly</item>
+<item>ASP.net</item>
+<item>Basic</item>
+<item>C</item>
+<item>C++</item>
+<item>C#</item>
+<item>COBOL</item>
+    <item>Clojure</item>
+</string.arrays>
+    <string-array name="words" />
+</resources>
